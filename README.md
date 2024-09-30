@@ -1,0 +1,1 @@
+This is a simple project that demonstrates the usage of AVR layered architecture programming to control an electric water heater with simple user interface through different buttons and 7 segment displays.
